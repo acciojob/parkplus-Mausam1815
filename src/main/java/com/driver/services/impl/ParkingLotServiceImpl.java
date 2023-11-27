@@ -56,7 +56,6 @@ public class ParkingLotServiceImpl implements ParkingLotService {
             spotRepository1.delete(spot);
 
         }
-
     }
 
     @Override
